@@ -17,7 +17,7 @@ La secuencias de escape presentes en C# disponibles para Strings son:
 |     \r      |  Retorno de Carro |
 |     \t      |  salto de tabulacion horizontal  |
 |     \v      |Salto de tabulacion vertical  |
-|     \´      |Muestra de comilla simple|
+|     \'      |Muestra de comilla simple|
 |     \"      |Muestra de comilla doble|
-|     \\      |Muestra de barra invertida|
+|     \\\      |Muestra de barra invertida|
 |     \O      |Caracter nulo|
