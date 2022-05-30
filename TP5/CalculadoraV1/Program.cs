@@ -48,5 +48,13 @@ while (respuesta=='Y' || respuesta=='y')
     }
 
 }
-
+Console.WriteLine("No se realizaran mas operaciones con los anteriores numeros");
+Console.Write("Ahora, escriba un numero al cual se le aplicaran operaciones automaticas: ");
+float numero3=Convert.ToSingle(Console.ReadLine()),
+Console.WriteLine("El cuadrado es: "+ Math.Pow(numero3,2));
+Console.WriteLine("La raiz cuadrada es : " + Math.Sqrt(numero3));
+Console.WriteLine("el seno es : " + Math.Sin(numero3));
+Console.WriteLine("El coseno es : " + Math.Cos(numero3));
+int i= (int) numero3;
+Console.WriteLine("La parte entera es :  " + i);
 Console.WriteLine ("Se ha finalizado la ejecucion de la calculadora");
