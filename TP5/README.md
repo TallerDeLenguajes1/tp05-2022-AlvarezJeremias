@@ -1,7 +1,7 @@
 # Trabajo Practico 5
-_ ¿Una String es un tipo de valor o un tipo por referencia? ¿Que secuencias de escape tiene el String? ¿Que sucede cuando se utiliza los caracteres @ y $ antes de una cadena de texto?_
+_¿Una String es un tipo de valor o un tipo por referencia? ¿Que secuencias de escape tiene el String? ¿Que sucede cuando se utiliza los caracteres @ y $ antes de una cadena de texto?_
 
-##¿Valor o por referencia?
+## ¿Valor o por referencia?
 
 Una String (cadena de caracteres) es un tipo por referencia, puesto que la cantidad de memoria necesaria para su reserva no esta determinada y siempre se reserva en el heap.
 
